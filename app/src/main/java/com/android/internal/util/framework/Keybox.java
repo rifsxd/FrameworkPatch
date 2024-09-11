@@ -51,7 +51,7 @@ public final class Keybox {
                 DpEmzUJZXhI=
                 -----END CERTIFICATE-----
                 """;
-        public static final String CERTIFICATE_3 = """
+        /*public static final String CERTIFICATE_3 = """
                 -----BEGIN CERTIFICATE-----
                 MIIFHDCCAwSgAwIBAgIJAPHBcqaZ6vUdMA0GCSqGSIb3DQEBCwUAMBsxGTAXBgNV
                 BAUTEGY5MjAwOWU4NTNiNmIwNDUwHhcNMjIwMzIwMTgwNzQ4WhcNNDIwMzE1MTgw
@@ -82,7 +82,7 @@ public final class Keybox {
                 vaI47gC+TNpkgYGkkBT6B/m/U01BuOBBTzhIlMEZq9qkDWuM2cA5kW5V3FJUcfHn
                 w1IdYIg2Wxg7yHcQZemFQg==
                 -----END CERTIFICATE-----
-                """;
+                """;*/
     }
 
     public static final class RSA {
@@ -191,7 +191,7 @@ public final class Keybox {
                 ljrXiC4=
                 -----END CERTIFICATE-----
                 """;
-        public static final String CERTIFICATE_3 = """
+        /*public static final String CERTIFICATE_3 = """
                 -----BEGIN CERTIFICATE-----
                 MIIFHDCCAwSgAwIBAgIJAPHBcqaZ6vUdMA0GCSqGSIb3DQEBCwUAMBsxGTAXBgNV
                 BAUTEGY5MjAwOWU4NTNiNmIwNDUwHhcNMjIwMzIwMTgwNzQ4WhcNNDIwMzE1MTgw
@@ -222,6 +222,6 @@ public final class Keybox {
                 vaI47gC+TNpkgYGkkBT6B/m/U01BuOBBTzhIlMEZq9qkDWuM2cA5kW5V3FJUcfHn
                 w1IdYIg2Wxg7yHcQZemFQg==
                 -----END CERTIFICATE-----
-                """;
+                """;*/
     }
 }
